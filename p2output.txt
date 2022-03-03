@@ -1,1 +1,10 @@
-
+gcc -g p2original.c -lm
+ ./a.out
+ enter the cordinates of the three sides of a triangle 
+2
+2
+3
+3
+4
+4
+the given coordinates doesn't represent a triangle

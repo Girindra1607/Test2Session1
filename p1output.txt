@@ -1,1 +1,9 @@
-
+gcc -g p1original.c -lm
+ ./a.out
+Enter x1 coord:2
+Enter y1 coord:4
+Enter x2 coord:-2
+Enter y2 coord:3
+First Coord is 2.0,4.0
+Second Coord is -2.0,3.0
+Distance between(2.0,4.0) and (-2.0,3.0) is 4

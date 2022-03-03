@@ -1,1 +1,5 @@
-
+gcc -g p3original.c
+ ./a.out
+enter any number
+2
+the given number is a prime number

@@ -1,1 +1,4 @@
-
+gcc -g p4original.c
+ ./a.out
+Enter a number:4
+The 4 th term is:2
